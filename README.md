@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 🖐 Yo<br>
+Welcome to my GitHub. If you made it here you must be *real* lost, haha. Maybe someday something cool will be here but for now it's just whatever wacky thing I've got going on that I need to put up here. Enjoy.
 <!--
 **Ashy8682/ashy8682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
